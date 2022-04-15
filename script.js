@@ -25,6 +25,7 @@ document.querySelector('.check').addEventListener('click', function () {
       highScore = score;
       document.querySelector('.highscore').textContent = highScore;
       document.querySelector('.name').textContent = '🎉 HIGHSCORE 🎉';
+      document.querySelector('.name').style.color = 'red';
     }
     document.querySelector('body').style.backgroundColor = '#60b347';
     document.querySelector('.number').style.width = '30rem';
@@ -56,4 +57,5 @@ document.querySelector('.again').addEventListener('click', function () {
   document.querySelector('body').style.backgroundColor = '#1190b4';
   document.querySelector('.number').style.width = '15rem';
   document.querySelector('.name').textContent = 'Guess My Number!';
+  document.querySelector('.name').style.color = 'white';
 });
