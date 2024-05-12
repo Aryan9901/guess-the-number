@@ -1,11 +1,8 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/lh9XVGv6BHs?si=BquPyhI_o2f8jHqV" target="_blank">
-      <img src="<div align="center">
+    <a href="https://aryan9901.github.io/guess-the-number/" target="_blank">
+      <img src="https://github.com/Aryan9901/guess-the-number"center">
   <br />
-    <a href="https://youtu.be/lh9XVGv6BHs?si=BquPyhI_o2f8jHqV" target="_blank">
-      <img src="https://github.com/adrianhajdin/pricewise/assets/151519281/315377f2-0307-4ac2-87e0-55e053ca094b" alt="Project Banner">
-    </a>
   <br />
 
   <div>
