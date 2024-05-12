@@ -3,12 +3,15 @@
   <h3 align="center">GUESS THE NUMBER GAME</h3>
 
    <div align="center">
-       Developed a responsive web-based guessing game using vanilla JavaScript. Users guess numbers 1-20, receiving instant feedback, with attempt tracking and congratulatory messages upon correct guesses. Built with HTML, CSS, and JavaScript for seamless user interaction.
+       Developed a responsive web-based guessing game using vanilla JavaScript. Users guess numbers 1-20, receiving instant feedback, 
+       with attempt tracking and congratulatory messages upon correct guesses. Built with HTML, CSS, and JavaScript for seamless user 
+       interaction.
     </div>
 
     <br />
     <a href="https://aryan9901.github.io/guess-the-number/" target="_blank">
       <img src="https://github.com/Aryan9901/guess-the-number/blob/main/home.png"center">
+    </a>
   <br />
   <br />
 </div>
