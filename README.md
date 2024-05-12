@@ -1,7 +1,7 @@
 <div align="center">
-     <h3 align="center">GUESS THE NUMBER GAME</h3>
+     <h1 align="left">GUESS THE NUMBER GAME</h1>
 
-   <div align="center">
+   <div align="left">
        Developed a responsive web-based guessing game using vanilla JavaScript. Users guess numbers 1-20, receiving instant feedback, 
        with attempt tracking and congratulatory messages upon correct guesses. Built with HTML, CSS, and JavaScript for seamless user 
        interaction.
