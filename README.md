@@ -19,9 +19,10 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [How to Play](#howtoplay)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+5. 🤸 [Quick Setup](#quick-setup)
+6. 🕸️ [Snippets](#snippets)
+7. 🔗 [Links](#links)
+8. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -54,6 +55,16 @@ Guess the Number is a dynamic web-based game built entirely in vanilla JavaScrip
 and many more, including code architecture and reusability 
 
 ## <a name="howtoplay">🤸 How to Play</a>
+
+Follow these steps to play this game.
+
+- Open index.html in your web browser.
+- Enter your guess in the input field provided.
+- Click the "Submit" button to submit your guess.
+- Receive immediate feedback on whether your guess is too high or too low.
+- Keep guessing until you correctly guess the number!
+
+  ## <a name="quick-setup">🤸 Quick Setup</a>
 
 Follow these steps to set up the project locally on your machine.
 
