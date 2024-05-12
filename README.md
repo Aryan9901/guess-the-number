@@ -69,7 +69,7 @@ Make sure you have the basic knowledge of HTML CSS & JAVASCRIPT.
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/pricewise.git
+https://github.com/Aryan9901/guess-the-number.git
 ```
 
 **Running the Project**
