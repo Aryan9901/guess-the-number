@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://aryan9901.github.io/guess-the-number/" target="_blank">
-      <img src="https://github.com/Aryan9901/guess-the-number"center">
+      <img src="https://github.com/Aryan9901/guess-the-number/blob/main/home.png"center">
   <br />
   <br />
 
