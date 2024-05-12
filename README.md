@@ -18,7 +18,7 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
+4. 🤸 [How to Play](#howtoplay)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
@@ -31,13 +31,9 @@ Guess the Number is a dynamic web-based game built entirely in vanilla JavaScrip
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
-- Bright Data
-- Cheerio
-- Nodemailer
-- MongoDB
-- Headless UI
-- Tailwind CSS
+- HTML
+- CSS
+- JAVASCRIPT
 
 ## <a name="features">🔋 Features</a>
 
@@ -57,7 +53,7 @@ Guess the Number is a dynamic web-based game built entirely in vanilla JavaScrip
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="howtoplay">🤸 How to Play</a>
 
 Follow these steps to set up the project locally on your machine.
 
